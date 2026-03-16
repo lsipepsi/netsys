@@ -1,3 +1,5 @@
+vless://2c8efde0-d535-4cb0-9db9-446d4a4ed1e2@176.124.217.162:443?security=reality&type=tcp&headerType=&path=&host=&sni=docscenter.su&fp=chrome&pbk=6kMHokt8i6xaeCd4X7hu8EFgwI-21MIJBy59iFZzUkc&sid=8ad1d547f7063589#%F0%9F%A4%94%20Youtube
+
 # Гайд 
 
 https://github.com/ItsLiventsev/NetSys_Demo_2024/blob/main/README.md
